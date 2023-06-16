@@ -12,11 +12,11 @@
 🍿 Fun facts - We can discuss new technologies
 ```
 ## Team Members
-🧙 Mishab - [Github](https://github.com/imishab) [Portfolio](https://mishab.me)
+🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
 
 🧙 Shabeer Alavi - [Github](https://github.com/ShabeerAlavi-Codez)
 
-🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev) [Instagram](https://www.instagram.com/shabeer_wms)
+🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev), [Instagram](https://www.instagram.com/shabeer_wms)
 
 🧙 GokulSreejith - [Github](https://gokulsreejith), [Portfolio](https://gokulsreejith.com)
 
