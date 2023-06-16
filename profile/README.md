@@ -12,9 +12,9 @@
 🍿 Fun facts - We can discuss new technologies
 ```
 ## Team Members
-🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
-
 🧙 Shabeer Alavi - [Github](https://github.com/ShabeerAlavi-Codez)
+
+🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
 
 🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev), [Instagram](https://www.instagram.com/shabeer_wms)
 
