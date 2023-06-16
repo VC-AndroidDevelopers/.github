@@ -20,6 +20,8 @@
 
 🧙 GokulSreejith - [Github](https://gokulsreejith), [Portfolio](https://gokulsreejith.com)
 
+🧙 Danwand - [Github](https://github.com/DanBrown47), [Portfolio](https://danwand.in/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
