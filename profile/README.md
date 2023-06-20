@@ -30,7 +30,8 @@ Vector Crop's goals are to push beyond the limit to make this possible which see
 [Mail](mailto:community@vectorcrop.com)
 
 ## Team Members
-🧙 Shabeer Alavi - [Github](https://github.com/ShabeerAlavi-Codez)
+
+🧙 Shabeer Alavi - [Github](https://github.com/ShabeerAlavi-Codez), [Portfolio](https://shabeeralavi-codez.github.io)
 
 🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
 
