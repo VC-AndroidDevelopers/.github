@@ -19,14 +19,17 @@ Vector Crop's vision is to help and make the motivated developers towards the pa
 
 Vector Crop's goals are to push beyond the limit to make this possible which seems to be impossble.
 
+## web page
+
+<img src="https://github.com/VectorCropCommunity/.github/blob/vectorcrop-patch/icons/vectorcrop.svg" alt="Your SVG Image" width="48" height="48">
 
 ## Social Media
 
-[![Website](https://skillicons.dev/icons?i=html)](http://community.vectorcrop.com)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vectorcrop)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vectorcrop)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/qbesGwds)
-[![Whatsapp](https://github.com/VectorCropCommunity/.github/blob/vectorcrop-patch/icons/whatsapp.svg)](https://chat.whatsapp.com/LY87EghJpZR9y1rMfx06dM)
-[![Mail](https://skillicons.dev/icons?i=mail)](mailto:community@vectorcrop.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vectorcrop)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vectorcrop)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qbesGwds)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LY87EghJpZR9y1rMfx06dM)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:community@vectorcrop.com)
 
 ## Team Members
 
