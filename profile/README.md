@@ -19,6 +19,10 @@ Vector Crop's vision is to help and make the motivated developers towards the pa
 
 Vector Crop's goals are to push beyond the limit to make this possible which seems to be impossble.
 
+## Rules for Android Developers
+
+Please refer to the [Rules](RULES.md) file for detailed guidelines and best practices for Android developers.
+
 ## Web page
 
 <a href="https://vectorcrop.com/"><img src="https://github.com/VectorCropCommunity/.github/blob/vectorcrop-patch/icons/vectorcrop.svg" alt="Your SVG Image" width="48" height="48"></a>
