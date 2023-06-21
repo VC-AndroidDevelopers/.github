@@ -1,3 +1,8 @@
+[![](https://img.shields.io/github/stars/VectorCropCommunity)](#)
+[![](https://img.shields.io/github/followers/VectorCropCommunity.svg?style=social&label=Follow&maxAge=2592000)](#)
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVectorCropCommunity1212%2Fhit-counter)](#)
+
+
 ## VectorCrop Community
 
 A wide range of vibrant and holistic open source community dedicated to fostering the collaboration and innovation. Here in Vector Crop we believe that the power of the collabrative possession with creativeness and innovation transforms the entire world with more useful technologies.
@@ -35,7 +40,7 @@ Vector Crop's goals are to push beyond the limit to make this possible which see
 
 🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
 
-🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev), [Instagram](https://www.instagram.com/shabeer_wms)
+🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev), [Portfolio](https://shabeer-dev.github.io)
 
 🧙 GokulSreejith - [Github](https://gokulsreejith), [Portfolio](https://gokulsreejith.com)
 
