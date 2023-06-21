@@ -22,7 +22,11 @@ Vector Crop's goals are to push beyond the limit to make this possible which see
 
 ## Social Media
 
-[![Website](https://skillicons.dev/icons?i=html)](http://community.vectorcrop.com)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vectorcrop)[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vectorcrop)[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/qbesGwds)[![Whatsapp](https://skillicons.dev/icons?i=discord)](https://chat.whatsapp.com/LY87EghJpZR9y1rMfx06dM)[![Mail](https://skillicons.dev/icons?i=mail)](mailto:community@vectorcrop.com)
+[![Website](https://skillicons.dev/icons?i=html)](http://community.vectorcrop.com)[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vectorcrop)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vectorcrop)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/qbesGwds)
+[![Whatsapp](https://github.com/VectorCropCommunity/.github/blob/vectorcrop-patch/icons/whatsapp.svg)](https://chat.whatsapp.com/LY87EghJpZR9y1rMfx06dM)
+[![Mail](https://skillicons.dev/icons?i=mail)](mailto:community@vectorcrop.com)
 
 ## Team Members
 
