@@ -21,7 +21,7 @@ Vector Crop's goals are to push beyond the limit to make this possible which see
 
 ## Rules for Android Developers
 
-Please refer to the [Rules](RULES.md) file for detailed guidelines and best practices for Android developers.
+Please refer to the [Rules](profile/RULES.md) file for detailed guidelines and best practices for Android developers.
 
 ## Web page
 
