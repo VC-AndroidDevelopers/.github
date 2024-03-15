@@ -41,7 +41,7 @@ Please refer to the [Rules](profile/RULES.md) file for detailed guidelines and b
 
 🧙 Mishab - [Github](https://github.com/imishab), [Portfolio](https://mishab.me)
 
-🧙 Shabeer Dev - [Github](https://github.com/shabeer-dev), [Portfolio](https://shabeer-dev.github.io)
+🧙 Shabeer Dev - [Github](https://github.com/shabeer-wms), [Portfolio](https://shabeer-wms.github.io)
 
 🧙 GokulSreejith - [Github](https://gokulsreejith), [Portfolio](https://gokulsreejith.com)
 
